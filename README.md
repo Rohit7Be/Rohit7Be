@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Rohit7Be
+- 👋 Hi, I’m Rohit Singh
+- 😉 A Coding Geek
 - 👀 I’m interested in Fullstack Web development.
 - 🌱 I’m currently learning new frameworks for web development..
 - 💞️ I’m looking for some great project ideas..
