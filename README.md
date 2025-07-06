@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning new frameworks for web development..
 - 💞️ I’m looking for some great project ideas..
 - 📫 How to reach me ...
-- ⚡ Hobbies: Coding, Football and chess.
+- ⚡ Hobbies: Coding, Football and Gaming.
 
 <!---
 Rohit7Be/Rohit7Be is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
