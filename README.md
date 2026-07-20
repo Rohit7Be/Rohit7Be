@@ -3,7 +3,6 @@
 - 👀 I’m interested in Fullstack Web development.
 - 🌱 I’m currently learning new frameworks for web development..
 - 💞️ I’m looking for some great project ideas..
-- 📫 How to reach me ...
 - ⚡ Hobbies: Coding, Football and Gaming.
 
 <!---
