@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • Agentic AI Learner</strong>
+  <strong>Frontend Developer • Agentic AI Learner</strong>
 </p>
 
 <p align="center">
@@ -54,26 +54,9 @@
 
 ---
 
-## 📊 GitHub
+🔥 GitHub Streak
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=rohit7be&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=rohit7be&theme=tokyonight&hide_border=true"
-        alt="GitHub Streak"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rohit7be&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600" /> </p>
 
 ---
 
