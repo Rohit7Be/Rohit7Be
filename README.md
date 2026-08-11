@@ -1,12 +1,11 @@
-<h1>Hey there!👋, I'm Rohit Singh</h1>
+<h1>Hey there!👋 I'm Rohit Singh</h1>
 
 <p>
   <strong>Frontend Developer • Agentic AI Learner</strong>
 </p>
 
 <p>
-  👨‍💻 I build modern web applications and I'm currently exploring<br>
-      AI-powered applications and agentic systems.
+  👨‍💻 I build modern web applications and I'm currently exploring AI-powered applications and agentic systems.
 </p>
 
 <p>
@@ -20,27 +19,29 @@
 <p>
   🔒 I've built many public projects, with plenty more experiments kept private :)
 </p>
+<p>
+  🔗 Connect 
+</p>
 
 <p>
   <a href="https://rohit-dev-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/rohit-singh-361125252">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:singhrohit77443@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.leetcode.com/rwveerlvqi">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-161B22?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://github.com/rohit7be">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ## 🛠️ Tech Stack
-
 ### Frontend
 
 <p>
@@ -66,7 +67,6 @@
 </p>
 
 ---
-
 <p align="center">
   <i>Building. Learning. Shipping.</i>
 </p>
