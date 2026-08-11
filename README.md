@@ -5,18 +5,22 @@
 </p>
 
 <p>
-  I build modern web applications and I'm currently exploring<br>
-  AI-powered applications and agentic systems.
+  👨‍💻 I build modern web applications and I'm currently exploring<br>
+      AI-powered applications and agentic systems.
 </p>
+
 <p>
-  I Like to code, So i can create whatever i imagine.
+  💡 I like to code, so I can create whatever I imagine.
 </p>
+
 <p>
-  If an Idea pops up in my head, Chances are I'll build it and ship it.
+  🚀 If an idea pops up in my head, chances are I'll build it and ship it.
 </p>
+
 <p>
-  I've built many public repos, but privately I have so many fun projects :)
+  🔒 I've built many public repos, but privately I have so many fun projects :)
 </p>
+
 
 <p>
   <a href="https://linkedin.com/in/rohit-singh-361125252">
@@ -58,10 +62,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,typescript" alt="Currently Exploring"/>
 </p>
-
-### GitHub Streak 
-
-<p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rohit7be&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600" /> </p>
 
 ---
 
