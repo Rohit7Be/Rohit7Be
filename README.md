@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm Rohit Singh</h1>
+<h1>Hey there!👋, I'm Rohit Singh</h1>
 
-<p align="center">
+<p>
   <strong>Frontend Developer • Agentic AI Learner</strong>
 </p>
 
-<p align="center">
+<p>
   I build modern web applications and I'm currently exploring<br>
   AI-powered applications and agentic systems.
 </p>
+<p>
+  I Like to code, So i can create whatever i imagine.
+</p>
+<p>
+  If an Idea pops up in my head, Chances are I'll build it and ship it.
+</p>
+<p>
+  I've built many public repos, but privately I have so many fun projects :)
+</p>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/rohit-singh-361125252">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -24,20 +33,18 @@
   </a>
 </p>
 
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies"/>
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Backend and Database Technologies"/>
 </p>
 
 ### Languages & Tools
@@ -52,9 +59,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs,typescript" alt="Currently Exploring"/>
 </p>
 
----
-
-🔥 GitHub Streak
+### GitHub Streak 
 
 <p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rohit7be&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600" /> </p>
 
