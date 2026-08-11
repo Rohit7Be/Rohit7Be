@@ -18,11 +18,13 @@
 </p>
 
 <p>
-  🔒 I've built many public repos, but privately I have so many fun projects :)
+  🔒 I've built many public projects, with plenty more experiments kept private :)
 </p>
 
-
 <p>
+  <a href="https://rohit-dev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/rohit-singh-361125252">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
