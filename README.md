@@ -45,25 +45,27 @@
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs&perline=3" alt="Frontend Technologies"/> <br>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFydD1w05nhYOTi8F04rwmIAw8iTy6alApA-3K7jcFg&s=10" alt="Frontend Technologies" height=48 width=48 />
 </p>
+
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Backend and Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=3" alt="Backend and Database Technologies"/>
 </p>
 
 ### Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vite,npm" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vite,npm&perline=3" alt="Languages and Tools"/>
 </p>
 
 ### Currently Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript" alt="Currently Exploring"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,redux&perline=3" alt="Currently Exploring"/>
 </p>
 
 ---
