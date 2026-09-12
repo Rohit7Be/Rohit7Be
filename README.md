@@ -1,7 +1,7 @@
-<h1>Hey there!👋 I'm Rohit Singh</h1>
+<h1 align=center>Hey there!👋 I'm Rohit Singh</h1>
 
-<p>
-  <strong>Frontend Developer • Agentic AI Learner</strong>
+<p align=center>
+  <strong>Frontend Developer • MCA in Agentic AI</strong>
 </p>
 
 <p>
@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  💡 I like to code, so I can create whatever I imagine.
+  💡 I like to code, turn ideas into reality, and break things just to fix them.
 </p>
 
 <p>
@@ -19,54 +19,40 @@
 <p>
   🔒 I've built many public projects, with plenty more experiments kept private :)
 </p>
-<p>
+<h4 align=center>
   🔗 Connect 
-</p>
+</h4>
 
-<p>
+<p align=center>
   <a href="https://rohit-dev-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=white" height=30 width=95 alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/rohit-singh-361125252">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" height=30 width=95 alt="LinkedIn"/>
   </a>
   <a href="mailto:singhrohit77443@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=white" height=30 width=95 alt="Email"/>
   </a>
   <a href="https://www.leetcode.com/rwveerlvqi">
-    <img src="https://img.shields.io/badge/LeetCode-161B22?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-161B22?style=flat-square&logo=leetcode&logoColor=white" height=30 width=95 alt="LeetCode"/>
   </a>
   <a href="https://github.com/rohit7be">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" height=30 width=95 alt="GitHub"/>
   </a>
 </p>
 
-## 🛠️ Tech Stack
-### Frontend
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs&perline=3" alt="Frontend Technologies"/> <br>
+
+<p align=center>
+  <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,js,react" alt="Frontend Technologies"/> 
+  <br>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFydD1w05nhYOTi8F04rwmIAw8iTy6alApA-3K7jcFg&s=10" alt="Frontend Technologies" height=48 width=48 />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,tailwind,threejs,python,git" alt="Backend and Database Technologies"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=github,vite,npm" alt="Languages and Tools"/>
 </p>
 
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=3" alt="Backend and Database Technologies"/>
-</p>
-
-### Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vite,npm&perline=3" alt="Languages and Tools"/>
-</p>
-
-### Currently Exploring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,redux&perline=3" alt="Currently Exploring"/>
-</p>
 
 ---
 <p align="center">
