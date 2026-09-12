@@ -1,7 +1,7 @@
 <h1 align=center>Hey there!👋 I'm Rohit Singh</h1>
 
 <p align=center>
-  <strong>Frontend Developer • MCA in Agentic AI</strong>
+  <strong>Frontend Developer • Studying MCA in Agentic AI</strong>
 </p>
 
 <p>
