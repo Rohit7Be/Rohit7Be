@@ -53,9 +53,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,vite,npm" alt="Languages and Tools"/>
 </p>
 
-## 🐍 Contribution Snake
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Rohit7Be/Rohit7Be/output/github-contribution-grid-snake.svg)
 
 ---
 <p align="center">
