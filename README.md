@@ -4,24 +4,24 @@
   <strong>Frontend Developer • Studying MCA in Agentic AI</strong>
 </p>
 
-<p>
+<p align=center>
   👨‍💻 I build modern web applications and I'm currently exploring AI-powered applications and agentic systems.
 </p>
 
-<p>
+<p align=center>
   💡 I like to code, turn ideas into reality, and break things just to fix them.
 </p>
 
-<p>
+<p align=center>
   🚀 If an idea pops up in my head, chances are I'll build it and ship it.
 </p>
 
-<p>
+<p align=center>
   🔒 I've built many public projects, with plenty more experiments kept private :)
 </p>
-<h4 align=center>
+<h3 align=center>
   🔗 Connect 
-</h4>
+</h3>
 
 <p align=center>
   <a href="https://rohit-dev-portfolio.vercel.app/">
