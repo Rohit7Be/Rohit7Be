@@ -50,7 +50,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFydD1w05nhYOTi8F04rwmIAw8iTy6alApA-3K7jcFg&s=10" alt="Frontend Technologies" height=48 width=48  />
   <img src="https://skillicons.dev/icons?i=mysql,tailwind,threejs,python,git,github" alt="Backend and Database Technologies"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=vscode,vite,npm" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,vite,npm,redux" alt="Languages and Tools"/>
 </p>
 
 
