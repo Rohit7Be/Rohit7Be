@@ -9,7 +9,7 @@
 </p>
 
 <p align=center>
-  💡 I like to code, turn ideas into reality, and break things just to fix them.
+  💡 I like to code, turn ideas into reality, and break things just to fix them better.
 </p>
 
 <p align=center>
