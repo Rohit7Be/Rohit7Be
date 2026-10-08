@@ -5,7 +5,7 @@
 </p>
 
 <p align=center>
-  👨‍💻 I build modern web applications and I'm currently exploring AI-powered applications and agentic systems.
+  👨‍💻 I build modern web applications and I'm currently exploring AI-powered applications and agentic AI.
 </p>
 
 <p align=center>
