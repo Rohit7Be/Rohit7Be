@@ -51,6 +51,8 @@
   <img src="https://skillicons.dev/icons?i=mysql,tailwind,threejs,python,git,github" alt="Backend and Database Technologies"/>
   <br>
   <img src="https://skillicons.dev/icons?i=vscode,vite,npm,redux,ts" alt="Languages and Tools"/>
+  <img src="https://lenis.dev/apple-touch-icon.png" alt="Frontend Technologies" height=47 width=47  />
+  
 </p>
 
 
