@@ -52,6 +52,8 @@
   <br>
   <img src="https://skillicons.dev/icons?i=vscode,vite,npm,redux,ts" alt="Languages and Tools"/>
   <img src="https://lenis.dev/apple-touch-icon.png" alt="Frontend Technologies" height=47 width=47  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlnry-9qJbzGK1L6UULoLqSDN06Psi9M2iNxfl4WrFgQ&s=10" alt="Frontend Technologies" height=47 width=47  />
+  <br>
   
 </p>
 
